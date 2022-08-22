@@ -1,0 +1,1202 @@
+[
+    {
+        "model": "store.customer",
+        "pk": 1,
+        "fields": {
+            "first_name": "Xena",
+            "last_name": "Salisbury",
+            "email": "xsalisbury0@blogtalkradio.com",
+            "phone": "271-503-2043",
+            "birth_date": "2022-06-18",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 2,
+        "fields": {
+            "first_name": "Maddie",
+            "last_name": "Bogue",
+            "email": "mbogue1@fc2.com",
+            "phone": "296-425-8507",
+            "birth_date": "2022-05-10",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 3,
+        "fields": {
+            "first_name": "Zaccaria",
+            "last_name": "Billiard",
+            "email": "zbilliard2@360.cn",
+            "phone": "602-725-9146",
+            "birth_date": "2021-12-27",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 4,
+        "fields": {
+            "first_name": "Moe",
+            "last_name": "Pruce",
+            "email": "mpruce3@dell.com",
+            "phone": "450-701-9480",
+            "birth_date": "2022-07-06",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 5,
+        "fields": {
+            "first_name": "Flemming",
+            "last_name": "Smorthit",
+            "email": "fsmorthit4@princeton.edu",
+            "phone": "443-655-1670",
+            "birth_date": "2022-04-21",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 6,
+        "fields": {
+            "first_name": "Mattheus",
+            "last_name": "Grishankov",
+            "email": "mgrishankov5@usgs.gov",
+            "phone": "208-332-1606",
+            "birth_date": "2021-11-05",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 7,
+        "fields": {
+            "first_name": "Bertha",
+            "last_name": "Carles",
+            "email": "bcarles6@moonfruit.com",
+            "phone": "328-765-3322",
+            "birth_date": "2021-09-15",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 8,
+        "fields": {
+            "first_name": "Silvan",
+            "last_name": "Huchot",
+            "email": "shuchot7@tumblr.com",
+            "phone": "860-615-8392",
+            "birth_date": "2022-04-15",
+            "membership": "S"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 9,
+        "fields": {
+            "first_name": "Sollie",
+            "last_name": "Flarity",
+            "email": "sflarity8@google.com",
+            "phone": "668-925-8529",
+            "birth_date": "2022-05-29",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 10,
+        "fields": {
+            "first_name": "Lianne",
+            "last_name": "Glassard",
+            "email": "lglassard9@sitemeter.com",
+            "phone": "368-330-6309",
+            "birth_date": "2021-11-13",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 11,
+        "fields": {
+            "first_name": "Cookie",
+            "last_name": "Bennedick",
+            "email": "cbennedicka@hostgator.com",
+            "phone": "574-968-5262",
+            "birth_date": "2021-09-30",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 12,
+        "fields": {
+            "first_name": "Maria",
+            "last_name": "Bartholomew",
+            "email": "mbartholomewb@odnoklassniki.ru",
+            "phone": "742-598-4926",
+            "birth_date": "2021-09-14",
+            "membership": "S"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 13,
+        "fields": {
+            "first_name": "Ferdie",
+            "last_name": "Hamshere",
+            "email": "fhamsherec@discovery.com",
+            "phone": "635-439-3220",
+            "birth_date": "2022-04-29",
+            "membership": "S"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 14,
+        "fields": {
+            "first_name": "North",
+            "last_name": "Pallatina",
+            "email": "npallatinad@alibaba.com",
+            "phone": "357-269-0555",
+            "birth_date": "2022-06-29",
+            "membership": "S"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 15,
+        "fields": {
+            "first_name": "Leigha",
+            "last_name": "Asee",
+            "email": "laseee@twitter.com",
+            "phone": "376-772-8815",
+            "birth_date": "2022-03-11",
+            "membership": "S"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 16,
+        "fields": {
+            "first_name": "Alejandra",
+            "last_name": "Hawtry",
+            "email": "ahawtryf@wired.com",
+            "phone": "670-313-1236",
+            "birth_date": "2022-05-11",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 17,
+        "fields": {
+            "first_name": "Guthrey",
+            "last_name": "Rickards",
+            "email": "grickardsg@amazon.co.jp",
+            "phone": "702-798-6876",
+            "birth_date": "2022-05-26",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 18,
+        "fields": {
+            "first_name": "Rebekah",
+            "last_name": "Challicum",
+            "email": "rchallicumh@loc.gov",
+            "phone": "298-354-1469",
+            "birth_date": "2021-12-17",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 19,
+        "fields": {
+            "first_name": "Javier",
+            "last_name": "Asaaf",
+            "email": "jasaafi@parallels.com",
+            "phone": "179-356-4786",
+            "birth_date": "2021-09-09",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 20,
+        "fields": {
+            "first_name": "Perren",
+            "last_name": "Cluse",
+            "email": "pclusej@shop-pro.jp",
+            "phone": "627-254-5222",
+            "birth_date": "2022-04-18",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 21,
+        "fields": {
+            "first_name": "Holly-anne",
+            "last_name": "Brunesco",
+            "email": "hbrunescok@livejournal.com",
+            "phone": "320-539-9596",
+            "birth_date": "2021-12-18",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 22,
+        "fields": {
+            "first_name": "Yurik",
+            "last_name": "Nares",
+            "email": "ynaresl@businessinsider.com",
+            "phone": "409-995-8763",
+            "birth_date": "2021-09-21",
+            "membership": "S"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 23,
+        "fields": {
+            "first_name": "Chad",
+            "last_name": "Abrey",
+            "email": "cabreym@stanford.edu",
+            "phone": "938-752-0591",
+            "birth_date": "2022-01-30",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 24,
+        "fields": {
+            "first_name": "Hervey",
+            "last_name": "Dadson",
+            "email": "hdadsonn@woothemes.com",
+            "phone": "698-626-9951",
+            "birth_date": "2022-04-22",
+            "membership": "S"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 25,
+        "fields": {
+            "first_name": "Rinaldo",
+            "last_name": "Redbourn",
+            "email": "rredbourno@oaic.gov.au",
+            "phone": "889-385-3188",
+            "birth_date": "2022-07-16",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 26,
+        "fields": {
+            "first_name": "Brew",
+            "last_name": "Obispo",
+            "email": "bobispop@surveymonkey.com",
+            "phone": "963-298-0960",
+            "birth_date": "2021-12-04",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 27,
+        "fields": {
+            "first_name": "Meghan",
+            "last_name": "Chagg",
+            "email": "mchaggq@google.fr",
+            "phone": "758-396-7037",
+            "birth_date": "2021-09-25",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 28,
+        "fields": {
+            "first_name": "Rozella",
+            "last_name": "Lamberteschi",
+            "email": "rlamberteschir@nsw.gov.au",
+            "phone": "663-391-2119",
+            "birth_date": "2022-08-10",
+            "membership": "S"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 29,
+        "fields": {
+            "first_name": "Bryan",
+            "last_name": "Trahear",
+            "email": "btrahears@weather.com",
+            "phone": "543-352-0983",
+            "birth_date": "2022-05-26",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 30,
+        "fields": {
+            "first_name": "Chane",
+            "last_name": "Kastel",
+            "email": "ckastelt@clickbank.net",
+            "phone": "829-956-1122",
+            "birth_date": "2022-05-10",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 31,
+        "fields": {
+            "first_name": "Patin",
+            "last_name": "Nockolds",
+            "email": "pnockoldsu@upenn.edu",
+            "phone": "908-841-0812",
+            "birth_date": "2022-06-24",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 32,
+        "fields": {
+            "first_name": "Oswald",
+            "last_name": "Grubb",
+            "email": "ogrubbv@ning.com",
+            "phone": "126-301-0053",
+            "birth_date": "2021-12-02",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 33,
+        "fields": {
+            "first_name": "Austina",
+            "last_name": "Peattie",
+            "email": "apeattiew@nyu.edu",
+            "phone": "385-716-4928",
+            "birth_date": "2021-12-02",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 34,
+        "fields": {
+            "first_name": "Waldo",
+            "last_name": "Leuchars",
+            "email": "wleucharsx@samsung.com",
+            "phone": "260-235-6484",
+            "birth_date": "2021-12-14",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 35,
+        "fields": {
+            "first_name": "Dalenna",
+            "last_name": "Laughrey",
+            "email": "dlaughreyy@163.com",
+            "phone": "711-278-5223",
+            "birth_date": "2021-09-27",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 36,
+        "fields": {
+            "first_name": "Zared",
+            "last_name": "Simister",
+            "email": "zsimisterz@joomla.org",
+            "phone": "765-959-9677",
+            "birth_date": "2022-08-14",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 37,
+        "fields": {
+            "first_name": "Darla",
+            "last_name": "Carncross",
+            "email": "dcarncross10@earthlink.net",
+            "phone": "971-461-7051",
+            "birth_date": "2022-03-18",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 38,
+        "fields": {
+            "first_name": "Scarlett",
+            "last_name": "Dobbyn",
+            "email": "sdobbyn11@mail.ru",
+            "phone": "173-927-9810",
+            "birth_date": "2021-10-23",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 39,
+        "fields": {
+            "first_name": "Mitchel",
+            "last_name": "Feben",
+            "email": "mfeben12@fda.gov",
+            "phone": "968-503-7082",
+            "birth_date": "2022-04-04",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 40,
+        "fields": {
+            "first_name": "Flor",
+            "last_name": "Gulleford",
+            "email": "fgulleford13@upenn.edu",
+            "phone": "811-566-6845",
+            "birth_date": "2022-01-26",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 41,
+        "fields": {
+            "first_name": "Merwyn",
+            "last_name": "Shaw",
+            "email": "mshaw14@upenn.edu",
+            "phone": "112-595-2100",
+            "birth_date": "2021-12-04",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 42,
+        "fields": {
+            "first_name": "Maxine",
+            "last_name": "Saffen",
+            "email": "msaffen15@google.ca",
+            "phone": "318-693-7539",
+            "birth_date": "2021-11-11",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 43,
+        "fields": {
+            "first_name": "Adoree",
+            "last_name": "O'Cosgra",
+            "email": "aocosgra16@vk.com",
+            "phone": "667-809-7497",
+            "birth_date": "2021-10-15",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 44,
+        "fields": {
+            "first_name": "Amelita",
+            "last_name": "Liver",
+            "email": "aliver17@prweb.com",
+            "phone": "161-197-4752",
+            "birth_date": "2022-01-06",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 45,
+        "fields": {
+            "first_name": "Nonah",
+            "last_name": "Millgate",
+            "email": "nmillgate18@surveymonkey.com",
+            "phone": "407-885-5807",
+            "birth_date": "2021-08-30",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 46,
+        "fields": {
+            "first_name": "Agnella",
+            "last_name": "Bennitt",
+            "email": "abennitt19@livejournal.com",
+            "phone": "382-147-6704",
+            "birth_date": "2022-02-26",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 47,
+        "fields": {
+            "first_name": "Arne",
+            "last_name": "Lattie",
+            "email": "alattie1a@pbs.org",
+            "phone": "863-166-6934",
+            "birth_date": "2022-06-07",
+            "membership": "S"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 48,
+        "fields": {
+            "first_name": "Bamby",
+            "last_name": "O'Siaghail",
+            "email": "bosiaghail1b@yellowbook.com",
+            "phone": "610-849-4140",
+            "birth_date": "2022-03-05",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 49,
+        "fields": {
+            "first_name": "Karlene",
+            "last_name": "Ambage",
+            "email": "kambage1c@yellowbook.com",
+            "phone": "183-484-6855",
+            "birth_date": "2022-05-30",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 50,
+        "fields": {
+            "first_name": "Lutero",
+            "last_name": "Leighfield",
+            "email": "lleighfield1d@unesco.org",
+            "phone": "844-136-5210",
+            "birth_date": "2021-09-05",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 51,
+        "fields": {
+            "first_name": "Jenni",
+            "last_name": "Tuckie",
+            "email": "jtuckie1e@infoseek.co.jp",
+            "phone": "173-858-0459",
+            "birth_date": "2022-01-18",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 52,
+        "fields": {
+            "first_name": "Shanna",
+            "last_name": "Aizikowitz",
+            "email": "saizikowitz1f@sbwire.com",
+            "phone": "783-859-8173",
+            "birth_date": "2021-09-30",
+            "membership": "S"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 53,
+        "fields": {
+            "first_name": "Fanchon",
+            "last_name": "Tanzer",
+            "email": "ftanzer1g@ezinearticles.com",
+            "phone": "198-381-6901",
+            "birth_date": "2021-09-21",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 54,
+        "fields": {
+            "first_name": "Bethena",
+            "last_name": "Urpeth",
+            "email": "burpeth1h@google.it",
+            "phone": "935-118-1437",
+            "birth_date": "2022-08-06",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 55,
+        "fields": {
+            "first_name": "Monique",
+            "last_name": "Antonoczyk",
+            "email": "mantonoczyk1i@barnesandnoble.com",
+            "phone": "781-270-2338",
+            "birth_date": "2021-11-20",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 56,
+        "fields": {
+            "first_name": "Roman",
+            "last_name": "Tolussi",
+            "email": "rtolussi1j@google.ca",
+            "phone": "611-435-5431",
+            "birth_date": "2021-10-14",
+            "membership": "S"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 57,
+        "fields": {
+            "first_name": "Dianemarie",
+            "last_name": "Hurles",
+            "email": "dhurles1k@ucoz.com",
+            "phone": "247-105-6591",
+            "birth_date": "2022-06-09",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 58,
+        "fields": {
+            "first_name": "Jess",
+            "last_name": "Cheeney",
+            "email": "jcheeney1l@smugmug.com",
+            "phone": "249-405-8997",
+            "birth_date": "2022-05-11",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 59,
+        "fields": {
+            "first_name": "Abbi",
+            "last_name": "Stuchburie",
+            "email": "astuchburie1m@delicious.com",
+            "phone": "875-711-1743",
+            "birth_date": "2022-01-01",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 60,
+        "fields": {
+            "first_name": "Heath",
+            "last_name": "Dionisetto",
+            "email": "hdionisetto1n@tmall.com",
+            "phone": "416-116-5610",
+            "birth_date": "2022-07-17",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 61,
+        "fields": {
+            "first_name": "Salome",
+            "last_name": "Matousek",
+            "email": "smatousek1o@google.de",
+            "phone": "703-305-4691",
+            "birth_date": "2022-02-10",
+            "membership": "S"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 62,
+        "fields": {
+            "first_name": "Morey",
+            "last_name": "Fallon",
+            "email": "mfallon1p@prnewswire.com",
+            "phone": "167-347-2253",
+            "birth_date": "2022-08-16",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 63,
+        "fields": {
+            "first_name": "Lazar",
+            "last_name": "Eadmeades",
+            "email": "leadmeades1q@skyrock.com",
+            "phone": "759-281-6996",
+            "birth_date": "2022-02-15",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 64,
+        "fields": {
+            "first_name": "Brigham",
+            "last_name": "Sellor",
+            "email": "bsellor1r@slate.com",
+            "phone": "105-180-3749",
+            "birth_date": "2022-03-31",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 65,
+        "fields": {
+            "first_name": "Mamie",
+            "last_name": "McLarnon",
+            "email": "mmclarnon1s@google.com.au",
+            "phone": "924-375-7863",
+            "birth_date": "2021-08-29",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 66,
+        "fields": {
+            "first_name": "Kirby",
+            "last_name": "Butchard",
+            "email": "kbutchard1t@angelfire.com",
+            "phone": "533-684-9625",
+            "birth_date": "2021-09-17",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 67,
+        "fields": {
+            "first_name": "Jannel",
+            "last_name": "Woodrough",
+            "email": "jwoodrough1u@bizjournals.com",
+            "phone": "684-294-0401",
+            "birth_date": "2021-10-14",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 68,
+        "fields": {
+            "first_name": "Teodoro",
+            "last_name": "McDirmid",
+            "email": "tmcdirmid1v@home.pl",
+            "phone": "175-489-9186",
+            "birth_date": "2021-11-10",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 69,
+        "fields": {
+            "first_name": "Josephina",
+            "last_name": "Canario",
+            "email": "jcanario1w@delicious.com",
+            "phone": "805-198-2490",
+            "birth_date": "2021-12-24",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 70,
+        "fields": {
+            "first_name": "Dione",
+            "last_name": "Cutforth",
+            "email": "dcutforth1x@reddit.com",
+            "phone": "579-365-5252",
+            "birth_date": "2021-12-19",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 71,
+        "fields": {
+            "first_name": "Mamie",
+            "last_name": "Lemanu",
+            "email": "mlemanu1y@si.edu",
+            "phone": "694-394-0715",
+            "birth_date": "2021-11-03",
+            "membership": "S"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 72,
+        "fields": {
+            "first_name": "Helsa",
+            "last_name": "Rilings",
+            "email": "hrilings1z@hc360.com",
+            "phone": "961-187-8524",
+            "birth_date": "2022-01-17",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 73,
+        "fields": {
+            "first_name": "Danette",
+            "last_name": "Pickthorne",
+            "email": "dpickthorne20@bbb.org",
+            "phone": "870-740-6708",
+            "birth_date": "2022-01-01",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 74,
+        "fields": {
+            "first_name": "Edie",
+            "last_name": "Rigate",
+            "email": "erigate21@geocities.com",
+            "phone": "780-159-5545",
+            "birth_date": "2021-10-29",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 75,
+        "fields": {
+            "first_name": "Ebony",
+            "last_name": "Kytter",
+            "email": "ekytter22@patch.com",
+            "phone": "342-844-8426",
+            "birth_date": "2021-09-30",
+            "membership": "S"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 76,
+        "fields": {
+            "first_name": "Galina",
+            "last_name": "Linkleter",
+            "email": "glinkleter23@irs.gov",
+            "phone": "499-605-6720",
+            "birth_date": "2021-11-24",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 77,
+        "fields": {
+            "first_name": "Jamaal",
+            "last_name": "MacQuarrie",
+            "email": "jmacquarrie24@mail.ru",
+            "phone": "715-373-6684",
+            "birth_date": "2022-02-02",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 78,
+        "fields": {
+            "first_name": "Rodney",
+            "last_name": "Anders",
+            "email": "randers25@nationalgeographic.com",
+            "phone": "952-614-4521",
+            "birth_date": "2022-02-24",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 79,
+        "fields": {
+            "first_name": "Jilly",
+            "last_name": "Latliff",
+            "email": "jlatliff26@topsy.com",
+            "phone": "988-748-8688",
+            "birth_date": "2021-12-11",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 80,
+        "fields": {
+            "first_name": "Jake",
+            "last_name": "D'Cruze",
+            "email": "jdcruze27@squidoo.com",
+            "phone": "555-672-7784",
+            "birth_date": "2022-06-24",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 81,
+        "fields": {
+            "first_name": "Trixy",
+            "last_name": "Braunton",
+            "email": "tbraunton28@va.gov",
+            "phone": "315-158-9222",
+            "birth_date": "2022-03-21",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 82,
+        "fields": {
+            "first_name": "Randa",
+            "last_name": "Payne",
+            "email": "rpayne29@ask.com",
+            "phone": "992-106-5975",
+            "birth_date": "2022-05-29",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 83,
+        "fields": {
+            "first_name": "Willetta",
+            "last_name": "Aland",
+            "email": "waland2a@sphinn.com",
+            "phone": "321-843-2147",
+            "birth_date": "2022-06-26",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 84,
+        "fields": {
+            "first_name": "Lilla",
+            "last_name": "Gibbie",
+            "email": "lgibbie2b@ask.com",
+            "phone": "758-337-9089",
+            "birth_date": "2022-04-26",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 85,
+        "fields": {
+            "first_name": "Jobyna",
+            "last_name": "Pacher",
+            "email": "jpacher2c@ox.ac.uk",
+            "phone": "935-595-1190",
+            "birth_date": "2022-07-17",
+            "membership": "S"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 86,
+        "fields": {
+            "first_name": "Harlin",
+            "last_name": "Bartholat",
+            "email": "hbartholat2d@wsj.com",
+            "phone": "415-850-4971",
+            "birth_date": "2022-01-18",
+            "membership": "S"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 87,
+        "fields": {
+            "first_name": "Khalil",
+            "last_name": "Addington",
+            "email": "kaddington2e@hud.gov",
+            "phone": "972-371-8589",
+            "birth_date": "2021-10-01",
+            "membership": "S"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 88,
+        "fields": {
+            "first_name": "Danita",
+            "last_name": "Huggill",
+            "email": "dhuggill2f@va.gov",
+            "phone": "628-578-7785",
+            "birth_date": "2022-05-25",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 89,
+        "fields": {
+            "first_name": "Lissy",
+            "last_name": "Atterley",
+            "email": "latterley2g@newsvine.com",
+            "phone": "494-910-2932",
+            "birth_date": "2022-04-19",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 90,
+        "fields": {
+            "first_name": "Laura",
+            "last_name": "Stower",
+            "email": "lstower2h@tripod.com",
+            "phone": "370-369-9501",
+            "birth_date": "2022-06-19",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 91,
+        "fields": {
+            "first_name": "Alaster",
+            "last_name": "Jeary",
+            "email": "ajeary2i@1und1.de",
+            "phone": "466-145-3931",
+            "birth_date": "2022-08-10",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 92,
+        "fields": {
+            "first_name": "Valera",
+            "last_name": "Jerok",
+            "email": "vjerok2j@lycos.com",
+            "phone": "482-293-3280",
+            "birth_date": "2022-08-06",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 93,
+        "fields": {
+            "first_name": "Glyn",
+            "last_name": "Hightown",
+            "email": "ghightown2k@issuu.com",
+            "phone": "877-836-3124",
+            "birth_date": "2022-05-05",
+            "membership": "S"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 94,
+        "fields": {
+            "first_name": "Mordy",
+            "last_name": "Story",
+            "email": "mstory2l@ocn.ne.jp",
+            "phone": "340-572-7679",
+            "birth_date": "2021-11-14",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 95,
+        "fields": {
+            "first_name": "Bee",
+            "last_name": "Rulton",
+            "email": "brulton2m@tripod.com",
+            "phone": "718-348-3094",
+            "birth_date": "2022-01-22",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 96,
+        "fields": {
+            "first_name": "Eustace",
+            "last_name": "Saundercock",
+            "email": "esaundercock2n@wisc.edu",
+            "phone": "286-784-1997",
+            "birth_date": "2021-10-18",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 97,
+        "fields": {
+            "first_name": "Almeria",
+            "last_name": "Elman",
+            "email": "aelman2o@pbs.org",
+            "phone": "904-950-1811",
+            "birth_date": "2022-06-30",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 98,
+        "fields": {
+            "first_name": "Merrili",
+            "last_name": "Pebworth",
+            "email": "mpebworth2p@twitpic.com",
+            "phone": "582-576-7615",
+            "birth_date": "2022-07-04",
+            "membership": "B"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 99,
+        "fields": {
+            "first_name": "Bradan",
+            "last_name": "Ruskin",
+            "email": "bruskin2q@seesaa.net",
+            "phone": "580-399-5158",
+            "birth_date": "2022-06-24",
+            "membership": "G"
+        }
+    },
+    {
+        "model": "store.customer",
+        "pk": 100,
+        "fields": {
+            "first_name": "Lavinie",
+            "last_name": "Vischi",
+            "email": "lvischi2r@rakuten.co.jp",
+            "phone": "242-698-0414",
+            "birth_date": "2021-09-18",
+            "membership": "S"
+        }
+    }
+]
